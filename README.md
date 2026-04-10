@@ -1,12 +1,12 @@
-# ellury
+# Ellury
 
-**ellury** is a name drawn from multiple layers of meaning — the Georgian words *ველური* (wild) and *ელვარე* (radiant), and a word that feels deeply feminine, intuitively linked to the unconscious.
+**Ellury** is a name drawn from multiple layers of meaning — the Georgian words *ველური* (wild) and *ელვარე* (radiant), and a word that feels deeply feminine, intuitively linked to the unconscious.
 
 ---
 
 ## What is this?
 
-ellury is an experiment in tracking neural impulses that originate below conscious awareness.
+**Ellury** is an experiment in tracking neural impulses that originate below conscious awareness.
 
 The neocortex is exceptional at logical reasoning, but it often struggles to accurately interpret signals from the unconscious — desires, needs, and states that haven't yet surfaced into clear thought. ellury is an attempt to make those signals visible.
 
